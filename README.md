@@ -1,1 +1,2 @@
-# Snake-Game-Computer-Vision-
+# Computer-Vision-Final-Project
+Snake Game
